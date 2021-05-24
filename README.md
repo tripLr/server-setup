@@ -1,6 +1,8 @@
-# server-setup
+# WIP-server-setup
 setup server for building android, securing remote access via ssh and fail2ban
-currently supporting fedora31
+
+WIP
+
 click your branch for your device
 
 i will be creating tiny.cc url to clone this to the server via commandline
